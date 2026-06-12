@@ -12,6 +12,7 @@ import ArchitectService from "./pages/ArchitectService";
 import AwarenessService from "./pages/AwarenessService";
 import Soluciones from "./pages/Soluciones";
 import SolucionDetail from "./pages/SolucionDetail";
+import MarketingLP from "./pages/MarketingLP";
 
 const queryClient = new QueryClient();
 
@@ -30,6 +31,7 @@ const App = () => (
           <Route path="/servicios/awareness" element={<AwarenessService />} />
           <Route path="/soluciones" element={<Soluciones />} />
           <Route path="/soluciones/:slug" element={<SolucionDetail />} />
+          <Route path="/lp/:token" element={<MarketingLP />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
