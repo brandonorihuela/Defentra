@@ -1,0 +1,16 @@
+<svg width="522" height="120" viewBox="0 0 522 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Defentra">
+  <rect width="522" height="120" fill="transparent"/>
+  <path d="M26 22L70 10L114 22V72L70 102L26 72V22Z" fill="#26384B"/>
+  <path d="M34 26L70 16L106 26V41L70 52L34 41V26Z" fill="#25C7CB"/>
+  <path d="M34 50L70 39L106 50V66L70 77L34 66V50Z" fill="#1A8DA5"/>
+  <path d="M34 73L70 62L106 73V84L70 104L34 84V73Z" fill="#1F2D3F"/>
+  <path d="M48 31L70 37L92 31" stroke="#D7FCFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 55L70 61L92 55" stroke="#B8F8FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 79L70 86L92 79" stroke="#8EEBF2" stroke-width="4" stroke-linecap="round"/>
+  <path d="M153 30H197C212.6 30 221 38.2 221 53.5C221 69 212.5 78 196.7 78H153V30ZM171.4 44.3V63.7H193.8C199.7 63.7 203 60.2 203 53.8C203 47.7 199.6 44.3 193.5 44.3H171.4Z" fill="#26384B"/>
+  <path d="M231 30H301V44H249V48.4H296.2V60.7H249V64H301V78H231V30Z" fill="#26384B"/>
+  <path d="M311 30H380V44H329V50.2H375.5V64.2H329V78H311V30Z" fill="#26384B"/>
+  <path d="M389 30H457V44H407V48.4H454.2V60.7H407V64H459V78H389V30Z" fill="#26384B"/>
+  <path d="M467 30H485L511 78H491L486.8 69.3H463L458.8 78H439L467 30ZM469.8 56.5H480L474.9 45.7L469.8 56.5Z" fill="#26384B"/>
+  <path d="M497 78L509.5 53.5L522 78H497Z" fill="#25C7CB"/>
+</svg>
